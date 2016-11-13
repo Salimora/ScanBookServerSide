@@ -3,6 +3,7 @@ Scan book server side.
 Using Spring + Jersey
 
 Establish DataBase
+
 1. Table "Books"
 CREATE TABLE `Books` (
   `bookId` int(11) NOT NULL AUTO_INCREMENT,
