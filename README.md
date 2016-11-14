@@ -1,6 +1,9 @@
 # ScanBookServerSide
 Scan book server side. 
-Using Spring + Jersey
+Using Spring + Jersey.  
+
+BookResource.java is working that add, update, search and delete book.
+UserReadingListResource.java is working that current user to add, update, search and delete book info.
 
 Establish DataBase
 
